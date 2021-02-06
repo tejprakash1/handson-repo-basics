@@ -1,1 +1,3 @@
-Changes to the new branch - Features-branch - changes to the main branch
+
+Changes to the new branch - Features-branch - change to the features branch
+
