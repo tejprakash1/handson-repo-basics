@@ -1,0 +1,17 @@
+BitBucket Gui 
+  - repo creation
+  - add file
+  - pull
+  - branching
+  - create Pull request
+  - Branch model
+  - CI/CD Pipeline
+  - Development
+  - Create User
+  - Create Group
+  - Permission
+  - Web hock
+
+Gitlab
+  - 
+  
